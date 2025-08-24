@@ -363,3 +363,4 @@ derby-shared.jar=${derby.home}/derby-shared-${derby.version}.jar
 derby-shared.loc=${base-maven.loc}/org/apache/derby/derbyshared/${derby.version}/derbyshared-${derby.version}.jar
 derby-tools.jar=${derby.home}/derby-tools-${derby.version}.jar
 derby-tools.loc=${base-maven.loc}/org/apache/derby/derbytools/${derby.version}/derbytools-${derby.version}.jar
+
